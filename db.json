@@ -1,0 +1,51 @@
+{
+  "paints": [
+    {
+      "id": "blue",
+      "dnd": "blue",
+      "color": "blue",
+      "count": 10,
+      "status": "available"
+    },
+    {
+      "id": "grey",
+      "dnd": "grey",
+      "color": "grey",
+      "count": 10,
+      "status": "low"
+    },
+    {
+      "id": "black",
+      "dnd": "black",
+      "color": "black",
+      "count": 10,
+      "status": "available"
+    },
+    {
+      "id": "white",
+      "dnd": "white",
+      "color": "white",
+      "count": 10,
+      "status": "available"
+    },
+    {
+      "id": "purple",
+      "dnd": "purple",
+      "color": "purple",
+      "count": 10,
+      "status": "available"
+    }
+  ],
+  "menus":[
+    {
+      "id": "1",
+      "name": "Dashboard",
+      "url": "/dashboard"
+    },
+    {
+      "id": "2",
+      "name": "Stock",
+      "url": "/stock"
+    }
+  ]
+}
