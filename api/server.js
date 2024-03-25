@@ -21,7 +21,7 @@ server.use(middlewares);
 
 server.use(
   cors({
-    origin: "https://paint-kanban.vercel.app/",
+    origin: "https://paint-kanban.vercel.app",
   })
 );
 // Add this before server.use(router)
