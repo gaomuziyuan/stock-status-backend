@@ -20,10 +20,9 @@ const middlewares = jsonServer.defaults();
 server.use(middlewares);
 
 server.use(
-  cors
-  // cors({
-  //   origin: "https://stock-status-gamma.vercel.app",
-  // })
+  cors({
+    origin: "https://paint-kanban.vercel.app/",
+  })
 );
 // Add this before server.use(router)
 server.use(
