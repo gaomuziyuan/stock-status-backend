@@ -1,5 +1,5 @@
 {
-  "name": "stock-status-backend",
+  "name": "paint-kanban-backend",
   "version": "1.0.0",
   "description": "",
   "main": "api/server.js",
