@@ -1,4 +1,34 @@
 {
+  "users": [
+    {
+      "id": "1",
+      "username": "Adam",
+      "password": "Adam",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "username": "Jane",
+      "password": "Jane",
+      "role": "manager",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "username": "John",
+      "password": "John",
+      "role": "senior",
+      "isActive": false
+    },
+    {
+      "id": "4",
+      "username": "Painter",
+      "password": "Painter",
+      "role": "member",
+      "isActive": true
+    }
+  ],
   "paints": [
     {
       "id": "blue",
@@ -12,7 +42,7 @@
       "dnd": "grey",
       "color": "grey",
       "count": 10,
-      "status": "low"
+      "status": "available"
     },
     {
       "id": "black",
@@ -36,7 +66,7 @@
       "status": "available"
     }
   ],
-  "menus":[
+  "menus": [
     {
       "id": "1",
       "name": "Dashboard",
@@ -44,8 +74,13 @@
     },
     {
       "id": "2",
-      "name": "Stock",
-      "url": "/stock"
+      "name": "Inventory",
+      "url": "/inventory"
+    },
+    {
+      "id": "3",
+      "name": "Logout",
+      "url": "/"
     }
   ]
 }
