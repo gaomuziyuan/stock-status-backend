@@ -4,4 +4,4 @@ node_modules/
 ."id"ea
 
 # local env files
-.env*.local
+.env
