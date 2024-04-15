@@ -35,35 +35,35 @@
       "dnd": "blue",
       "color": "blue",
       "count": 10,
-      "status": "available"
+      "status": "Available"
     },
     {
       "id": "grey",
       "dnd": "grey",
       "color": "grey",
       "count": 10,
-      "status": "available"
+      "status": "Available"
     },
     {
       "id": "black",
       "dnd": "black",
       "color": "black",
       "count": 10,
-      "status": "available"
+      "status": "Available"
     },
     {
       "id": "white",
       "dnd": "white",
       "color": "white",
       "count": 10,
-      "status": "available"
+      "status": "Available"
     },
     {
       "id": "purple",
       "dnd": "purple",
       "color": "purple",
       "count": 10,
-      "status": "available"
+      "status": "Available"
     }
   ],
   "menus": [
